@@ -112,7 +112,7 @@ public class Empleado {
                 ", apellidos='" + apellidos + '\'' +
                 ", direccion='" + direccion + '\'' +
                 ", numTelefono='" + numTelefono + '\'' +
-                ", empresa=" + empresa.getCodigoEmpresa() +
+                ", empresa=" + empresa+
                 ", contrato=" + contrato +
                 '}';
     }
